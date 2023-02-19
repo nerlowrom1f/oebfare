@@ -1,1 +1,1 @@
-Allow Annotator PIL.Image inputs (#8397)
+Fix solution functions description + integrations/openvino.md cover image update (#8170)
