@@ -1,1 +1,1 @@
-Mkdocs annotations fixes (#7600)
+Update TFLite Docs images (#8605)
