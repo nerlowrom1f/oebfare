@@ -1,1 +1,1 @@
-Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
+ultralytics 8.0.232 OpenCV 4.9.0 readonly np.array fix (#7256)
