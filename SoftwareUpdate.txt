@@ -1,1 +1,1 @@
-Adds toggle displaying labels in GUI and verbose log on start (#7804)
+Feature: Create HUB Models from CLI or Python Script (#7316)
