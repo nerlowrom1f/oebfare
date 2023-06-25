@@ -1,1 +1,1 @@
-Add type hinting to explorer.py (#7388)
+Update format.yml to pull_request_target (#7460)
