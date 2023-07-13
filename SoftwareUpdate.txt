@@ -1,1 +1,1 @@
-Update fraction arg to employ a random selection (#8234)
+Update H1 in Explorer API docs (#7813)
