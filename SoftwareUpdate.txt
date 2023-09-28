@@ -1,1 +1,1 @@
-Update IoU capitalization (#8604)
+ultralytics 8.0.229 add model.embed() method (#7098)
